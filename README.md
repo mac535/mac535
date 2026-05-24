@@ -1,8 +1,8 @@
 # 💫 About Me:
-- [cite_start]🎓 Sixth Semester IT Undergraduate at Cochin University of Science and Technology (CUSAT)[cite: 4, 47, 48].
-- [cite_start]💼 Experienced in full-stack web and mobile development, with a proven track record across 5 internships, spanning UI/UX, robotics, and app development[cite: 4, 5].
-- [cite_start]🏆 1st Prize Winner at the Incepto Hackathon for building a decentralized, tamper-proof e-voting system using Gun.js[cite: 26, 65].
-- [cite_start]🚀 Passionate about building scalable, real-world software using clean architecture and algorithmic precision[cite: 6, 20].
+- 🎓 Sixth Semester IT Undergraduate at Cochin University of Science and Technology (CUSAT)[cite: 4, 47, 48].
+- 💼 Experienced in full-stack web and mobile development, with a proven track record across 5 internships, spanning UI/UX, robotics, and app development[cite: 4, 5].
+- 🏆 1st Prize Winner at the Incepto Hackathon for building a decentralized, tamper-proof e-voting system using Gun.js[cite: 26, 65].
+- 🚀 Passionate about building scalable, real-world software using clean architecture and algorithmic precision[cite: 6, 20].
 - 🏀 Junior House Captain and basketball enthusiast in my free time!
 
 ## 🌐 Socials:
